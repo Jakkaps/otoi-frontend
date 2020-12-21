@@ -1,3 +1,18 @@
-.App {
-  text-align: center;
+.Logo {
+  height: 70px;
+  margin: 8px;
+  margin-left: 0px;
+  width: auto;
+}
+
+.AppBarLink {
+  text-decoration: none;
+  margin-left: 32px;
+  font-size: larger;
+  color: lightgray;
+}
+
+.AppBarLink#selected {
+  color: white;
+  font-weight: 400;
 }
